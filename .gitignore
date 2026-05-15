@@ -1,0 +1,45 @@
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.cache/
+
+# Build
+dist/
+build/
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Test
+coverage/
+
+# Manim
+manim/media/
+manim/videos/
+manim/images/
+manim/text/
+manim/Tex/
+
+# Python (for Manim)
+__pycache__/
+*.pyc
+.venv/
+venv/
