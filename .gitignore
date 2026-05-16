@@ -43,3 +43,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Local tooling (preview / agent configs that don't belong in the repo)
+.claude/
